@@ -1,0 +1,47 @@
+*{
+	border: solid red 1px;
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	height: 7em;
+	margin-bottom: ;
+}
+
+.titulo-nav{
+	font-size: 1.7em;
+	position: absolute;
+	margin: 1.3em 4em;
+}
+
+.lista-nav{
+	font-size: 1.7em;
+	margin: .2em 17em;
+	list-style: none;
+	display: flex;
+	align-items: center;
+	gap: 1.7em;
+	width: 27em;
+	padding: 1em;
+}
+
+.welcome{
+	border: solid blue 2px;
+}
+
+.welcome h2{
+	font-size: 4em;
+	margin: 2em 2em .5em ;
+	width: 7em;
+}
+
+.primer-parrafo{
+	font-size: 1.3em;
+	width: 18em;
+	margin-left: 6.2em;
+}
+
+.logo-best-proteccion{
+	width: 1em;
+}
